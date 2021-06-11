@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+local.virtualenv/*
+htmlcov
+.coverage
